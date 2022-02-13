@@ -68,3 +68,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## INSTALL PDFTK
 - Mac - Install file pdftk_server-2.02-mac_osx-10.11-setup.pkg
+- Linux sudo apt install pdftk
